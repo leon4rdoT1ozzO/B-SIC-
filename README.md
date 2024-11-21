@@ -80,3 +80,27 @@ def menu():
 # Executar o sistema
 if __name__ == "__main__":
     me
+
+
+
+    Nome do cliente: João Silva
+Email do cliente: joao.silva@example.com
+Telefone do cliente: (11) 99999-8888
+✅ Cliente João Silva adicionado com sucesso!
+
+📋 Lista de Clientes:
+1. Cliente: João Silva | Email: joao.silva@example.com | Telefone: (11) 99999-8888
+
+2. Sistema de Gerenciamento de Clientes
+Um sistema básico em Python para gerenciamento de clientes, que inclui funcionalidades como adicionar, listar, buscar e remover clientes. Este projeto foi criado para demonstrar habilidades básicas em programação, boas práticas e organização de código.
+
+Funcionalidades
+Adicionar Cliente: Permite cadastrar um novo cliente com nome, e-mail e telefone.
+Listar Clientes: Exibe todos os clientes cadastrados.
+Buscar Cliente: Localiza um cliente pelo nome.
+Remover Cliente: Remove um cliente do sistema pelo nome.
+Menu Interativo: Interface simples e fácil de usar no terminal.
+
+
+
+
